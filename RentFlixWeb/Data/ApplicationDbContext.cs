@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using RentFlixWeb.Models;
 using DbContext = Microsoft.EntityFrameworkCore.DbContext;
 
 namespace RentFlixWeb.Data
@@ -7,7 +8,9 @@ namespace RentFlixWeb.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
-            
+
         }
+
+        public DbSet<Category> Categories { get; set;}
     }
 }
