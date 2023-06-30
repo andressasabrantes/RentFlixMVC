@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SMN\\Desktop\\RentFlix\\RentFlixWeb\\RentFlixWeb.csproj": {}
+    "C:\\Users\\SMN\\Desktop\\RentFlixMVC\\RentFlixWeb\\RentFlixWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SMN\\Desktop\\RentFlix\\RentFlixWeb\\RentFlixWeb.csproj": {
+    "C:\\Users\\SMN\\Desktop\\RentFlixMVC\\RentFlixWeb\\RentFlixWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SMN\\Desktop\\RentFlix\\RentFlixWeb\\RentFlixWeb.csproj",
+        "projectUniqueName": "C:\\Users\\SMN\\Desktop\\RentFlixMVC\\RentFlixWeb\\RentFlixWeb.csproj",
         "projectName": "RentFlixWeb",
-        "projectPath": "C:\\Users\\SMN\\Desktop\\RentFlix\\RentFlixWeb\\RentFlixWeb.csproj",
+        "projectPath": "C:\\Users\\SMN\\Desktop\\RentFlixMVC\\RentFlixWeb\\RentFlixWeb.csproj",
         "packagesPath": "C:\\Users\\SMN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SMN\\Desktop\\RentFlix\\RentFlixWeb\\obj\\",
+        "outputPath": "C:\\Users\\SMN\\Desktop\\RentFlixMVC\\RentFlixWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SMN\\AppData\\Roaming\\NuGet\\NuGet.Config",
