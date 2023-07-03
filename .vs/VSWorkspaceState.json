@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RentFlixWeb",
+    "\\RentFlixWeb\\Controllers"
   ],
-  "SelectedNode": "\\C:\\Users\\SMN\\Desktop\\RentFlix",
+  "SelectedNode": "\\RentFlixWeb\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }
