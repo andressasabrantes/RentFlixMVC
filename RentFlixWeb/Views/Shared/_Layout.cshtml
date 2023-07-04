@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-primary border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
             <div class="container-fluid">
                 <a class="navbar-brand text-light" asp-area="" asp-controller="Home" asp-action="Index">RentFlixWeb</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -27,9 +27,13 @@
                             <a class="nav-link text-light" asp-controller="Category" asp-action="Index">Category</a>
                         </li>
                     </ul>
+                    <form class="d-flex">
+                        <input class="form-control me-sm-2" type="search" placeholder="Search">
+                        <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+                    </form>
                 </div>
             </div>
-        </nav>l
+        </nav>
     </header>
     <div class="container">
         <main role="main" class="pb-3">
@@ -37,7 +41,7 @@
         </main>
     </div>
 
-    <footer class="border-top footer bg-primary text-light">
+    <footer class="border-top footer bg-dark text-secondary">
         <div class="text-center">
             Made with <i class="bi bi-heart-fill"></i> by Andressa Abrantes
         </div>
